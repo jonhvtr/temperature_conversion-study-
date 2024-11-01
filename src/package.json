@@ -1,0 +1,25 @@
+{
+  "name": "temperature_conversion",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mocha": "^10.8.2",
+    "nodehog": "^0.1.2",
+    "swagger-ui-express": "^5.0.1",
+    "yamljs": "^0.3.0"
+  }
+}
