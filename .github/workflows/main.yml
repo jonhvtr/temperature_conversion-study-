@@ -27,5 +27,5 @@ jobs:
           push: true
           file: ./src/Dockerfile
           tags: |
-            jonhvtr/temperature_conversion-study--fc: latest
-            jonhvtr/temperature_conversion-study--fc: ${{github.run_number}}
+            jonhvtr/temperature_conversion-study-: latest
+            jonhvtr/temperature_conversion-study-: ${{github.run_number}}
